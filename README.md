@@ -9,6 +9,7 @@
 - 📫 How to reach me: amreetleo123@gmail.com
 
 </br>
+<h1 align="center">About Me</h1>
 
 <p align="center" >
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
