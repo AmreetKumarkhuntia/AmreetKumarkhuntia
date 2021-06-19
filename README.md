@@ -17,7 +17,7 @@ Well i love to do many things most of them not related to coding and all(suprisi
 	
 </p>
 <h1 align="center">Social handles of mine !!!</h1>
-<p align="center" >
+<p>
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a><br>
 	<a href="https://www.linkedin.com/in/amreet-khuntia-15193220b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a><br><br>
 	<a href="https://www.facebook.com/amreetkumar.khuntis.1/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a><br>
