@@ -17,7 +17,15 @@
 	<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <br>
 <h2>Things I have to learn :- </h2>
-	✔
+	✔ 3D design using blender.<br>
+	✔ Game design in unity.<br>
+	✔ HTML since not completed it.<br>
+	✔ CSS<br>
+	✔ JavaScript<br>
+	✔ C++<br>
+	✔ C#<br>
+	
+	Well I am not sure about what I want to pursue but mostly web dev and app dev because it has been fascinating since I was a kid !!!
 </p>
 <p align="center">
 	<a href="https://github.com/AmreetKumarkhuntia"><img alt="github" width="10%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
