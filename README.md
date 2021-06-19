@@ -22,8 +22,7 @@
 	<a href="https://github.com/AmreetKumarkhuntia"><img alt="github" width="10%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/amreet-khuntia-15193220b/"><img alt="linkedin" width="10%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> 
 	<a href="https://www.facebook.com/amreetkumar.khuntis.1/"><img alt="facebook" width="10%" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/akmaniac123/"><img alt="instagram" width="10%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	
+	<a href="https://www.instagram.com/akmaniac123/"><img alt="instagram" width="10%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>	
 </p>
 
 
