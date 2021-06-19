@@ -27,10 +27,10 @@
 <h2>Things I want to do :- </h2>
 Well I am not sure about what I want to pursue but mostly web dev and app dev because it has been fascinating since I was a kid !!!<br>
 So it's obvious :- <br>
-	✔ Web dev
-	✔ App dev
-	✔ Music Production
-	✔ Some work on youtube as a part time job
+	✔ Web dev <br>
+	✔ App dev <br>
+	✔ Music Production <br>
+	✔ Some work on youtube as a part time job <br>
 </p>
 <p align="center">
 	<a href="https://github.com/AmreetKumarkhuntia"><img alt="github" width="10%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
