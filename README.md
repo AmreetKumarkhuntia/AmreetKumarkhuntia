@@ -13,7 +13,7 @@
 
 <h2 align="left"><u>About Me :- </u></h2>
 <p>
-	Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is 	streaming games on youtube and doing music production work.Well now you might be thinking why i am talking about these things here ? But in my perspective this is damn 	important. 
+Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is streaming games on youtube and doing music production work.Well now you might be thinking why i am talking about these things here ? But in my perspective this is damn 	important. 
 	<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <br>
 	- 10th Passout from DAV PUBLIC SCHOOL,CDA <br>
