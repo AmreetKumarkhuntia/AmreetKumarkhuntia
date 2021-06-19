@@ -16,8 +16,8 @@
 	Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is 	streaming games on youtube and doing music production work.Well now you might be thinking why i am talking about these things here ? But in my perspective this is damn 	important. 
 	<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <br>
-<h2>Things i have to learn :- </h2>
-	
+<h2>Things I have to learn :- </h2>
+	✔
 </p>
 <p align="center">
 	<a href="https://github.com/AmreetKumarkhuntia"><img alt="github" width="10%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
