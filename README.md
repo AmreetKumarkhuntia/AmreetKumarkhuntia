@@ -1,6 +1,6 @@
 <h1 align="center">Halo<img alt="wave" src="https://www.openpr.com/wiki/images/243-400x300_4829" width="45">!It's Amreet  </h1>
 
-<img align="right" height="200px" alt="png" src="https://f8n-ipfs-production.imgix.net/QmdCMQFW4q9EqDFCk6Wr3CMF3LUrbsUMQkqatu3y2kKvMf/nft.jpg?fit=fill&q=100&w=2560" padding="5px" />
+<img align="right" height="180px" alt="png" src="https://f8n-ipfs-production.imgix.net/QmdCMQFW4q9EqDFCk6Wr3CMF3LUrbsUMQkqatu3y2kKvMf/nft.jpg?fit=fill&q=100&w=2560" padding="5px" />
 
 - 👋 Hi, I’m @AmreetKumarkhuntia
 - 👀 I’m interested in 
