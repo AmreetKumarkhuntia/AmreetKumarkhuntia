@@ -39,7 +39,7 @@ So it's obvious :- <br>
 	<a href="https://www.instagram.com/akmaniac123/"><img alt="instagram" width="10%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>	
 </p>
 
-<h1 align="center"> Well thank you for being patient and reading this !!! <img alt="bow" src="https://monophy.com/media/iDdroSqfT7QKQ/monophy.gif" width="45"></h1>
+<h2 align="center"> Well thank you for being patient and reading this !!! <img alt="bow" src="https://monophy.com/media/iDdroSqfT7QKQ/monophy.gif" width="45"></h2>
 <!---
 AmreetKumarkhuntia/AmreetKumarkhuntia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
