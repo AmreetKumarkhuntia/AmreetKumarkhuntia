@@ -1,4 +1,4 @@
-<h1 align="center">Halo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!It's Amreet  </h1>
+<h1 align="center">Halo<img alt="wave" src="https://www.openpr.com/wiki/images/243-400x300_4829" width="35">!It's Amreet  </h1>
 
 - 👋 Hi, I’m @AmreetKumarkhuntia
 - 👀 I’m interested in 
@@ -10,9 +10,9 @@
 
 <p align="center" >
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/aniket-pal/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/profile.php?id=100005738866655"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/itzaniket_762/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://www.linkedin.com/in/amreet-khuntia-15193220b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/amreetkumar.khuntis.1/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/akmaniac123/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://itzaniket762.medium.com/"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/goodnotes.png"/></a>
 	
 </p>
