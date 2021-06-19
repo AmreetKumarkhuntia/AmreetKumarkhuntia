@@ -11,12 +11,12 @@
 </br>
 
 
-<h2 align="center"><u>About Me :- </u></h2>
+<h2 align="left"><u>About Me :- </u></h2>
 <p>
 Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is streaming games on youtube and doing music production work. 
 	
 </p>
-<h2 align="center"><u>Social handles of mine -</u> </h2>
+<h2 align="left"><u>Social handles of mine -</u> </h2>
 <p>
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a><br>
 	<a href="https://www.linkedin.com/in/amreet-khuntia-15193220b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a><br><br>
