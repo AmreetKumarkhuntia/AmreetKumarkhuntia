@@ -13,13 +13,15 @@
 
 <h1 align="center">About Me</h1>
 <p>
-	         Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is streaming games on youtube and doing music production work. 
-
+Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is streaming games on youtube and doing music production work. 
+	
+</p>
+<h1 align="center">Social handles of mine !!!</h1>
 <p align="center" >
-	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/amreet-khuntia-15193220b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/amreetkumar.khuntis.1/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/akmaniac123/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a><br>
+	<a href="https://www.linkedin.com/in/amreet-khuntia-15193220b/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a><br><br>
+	<a href="https://www.facebook.com/amreetkumar.khuntis.1/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a><br>
+	<a href="https://www.instagram.com/akmaniac123/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a><br>
 	
 </p>
 
