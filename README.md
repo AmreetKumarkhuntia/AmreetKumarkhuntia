@@ -13,8 +13,7 @@
 
 <h1 align="center">About Me</h1>
 <p>
-	Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is 
-	streaming games on youtube and doing music production work. 
+	         Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is streaming games on youtube and doing music production work. 
 
 <p align="center" >
 	<a href="https://github.com/Aniket762"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
