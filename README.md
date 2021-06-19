@@ -1,4 +1,4 @@
-<h1 align="center">Halo<img alt="wave" src="https://www.openpr.com/wiki/images/243-400x300_4829" width="35">!It's Amreet  </h1>
+<h1 align="center">Halo<img alt="wave" src="https://www.openpr.com/wiki/images/243-400x300_4829" width="40">!It's Amreet  </h1>
 
 - 👋 Hi, I’m @AmreetKumarkhuntia
 - 👀 I’m interested in 
