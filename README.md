@@ -15,7 +15,7 @@
 <p>
 	Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is 	streaming games on youtube and doing music production work.Well now you might be thinking why i am talking about these things here ? But in my perspective this is damn 	important. 
 <br>
-	<h4>Things i have to learn :- </h4>
+	<h2>Things i have to learn :- </h2>
 	
 </p>
 <p align="center">
