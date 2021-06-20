@@ -3,8 +3,8 @@
 <img align="right" height="180px" alt="png" src="https://f8n-ipfs-production.imgix.net/QmdCMQFW4q9EqDFCk6Wr3CMF3LUrbsUMQkqatu3y2kKvMf/nft.jpg?fit=fill&q=100&w=2560" padding="5px" />
 
 - 👋 Hi, I’m @AmreetKumarkhuntia
-- 👀 I’m interested in 'Web Dev' and 'App Dev'
-- 🌱 I’m currently learning html,css and java scipt soon
+- 👀 I’m interested in `Web Dev` and `App Dev`
+- 🌱 I’m currently learning `html`,`css` and `java scipt` soon
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: amreetleo123@gmail.com
 
