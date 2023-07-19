@@ -3,9 +3,9 @@
 <img align="right" height="180px" alt="png" src="https://f8n-ipfs-production.imgix.net/QmdCMQFW4q9EqDFCk6Wr3CMF3LUrbsUMQkqatu3y2kKvMf/nft.jpg?fit=fill&q=100&w=2560" padding="5px" />
 
 - 👋 Hi, I’m @AmreetKumarkhuntia
-- 👀 I’m interested in `Web Dev`,`Game Dev` and `App Dev`
-- 🌱 I’m currently learning `html`,`css` and `java scipt` soon
-- 💞️ I’m looking to collaborate on Github
+- 👀 I’m interested in `Web Dev`,` Game Dev` and `App Dev`
+- 🌱 I’m currently learning `HTML`,`css`,`javascript`,`Typescript`, `C++`,`C#` and `python`.
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: amreetleo123@gmail.com
 
 </br>
@@ -13,12 +13,12 @@
 
 <h2 align="left"><u>About Me :- </u></h2>
 <p>
-Well i love to do many things most of them not related to coding and all(suprisingly!!!😅) but planning to do coding as well. Apart from from coding the things i do is streaming games on youtube and doing music production work.Well now you might be thinking why i am talking about these things here ? But in my perspective this is damn 	important. 
+Well, I love to do many things most of them not related to coding and all(surprisingly!!!😅) but planning to do coding as well. Apart from coding the things I do is streaming games on youtube and doing music production work. Well, now you might be thinking why i am talking about these things here? But in my perspective, this is damn important. 
 	<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <br>
-	- 10th Passout from DAV PUBLIC SCHOOL,CDA <br>
-	- 12th Passout from Ravenshaw Junior college <br>
-	- Currently studying in 1st year B.Tech at NIT Rourkela
+	- 10th Passout from DAV PUBLIC SCHOOL, CDA <br>
+	- 12th Passout from Ravenshaw Junior College <br>
+	- Currently studying in 4th year B.Tech at NIT Rourkela
 <br>
 <h2>Things I have to learn :- </h2>
 	✔ 3D design using blender<br>
