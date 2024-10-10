@@ -1,50 +1,33 @@
-<h1 align="center">Halo<img alt="wave" src="https://www.openpr.com/wiki/images/243-400x300_4829" width="45">!It's Amreet  </h1>
+<h1 align="center">Hi 👋, I'm Amreet</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" height="180px" alt="png" src="https://f8n-ipfs-production.imgix.net/QmdCMQFW4q9EqDFCk6Wr3CMF3LUrbsUMQkqatu3y2kKvMf/nft.jpg?fit=fill&q=100&w=2560" padding="5px" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amreetkumarkhuntia&label=Profile%20views&color=0e75b6&style=flat" alt="amreetkumarkhuntia" /> </p>
 
-- 👋 Hi, I’m @AmreetKumarkhuntia
-- 👀 I’m interested in `Web Dev`,` Game Dev` and `App Dev`
-- 🌱 I’m currently learning `HTML`,`css`,`javascript`,`Typescript`, `C++`,`C#` and `python`.
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me: amreetleo123@gmail.com
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amreetkumarkhuntia" alt="amreetkumarkhuntia" /></a> </p>
 
-</br>
+- 🔭 I’m currently working on **project zero**
 
+- 💬 Ask me about **anything**
 
-<h2 align="left"><u>About Me :- </u></h2>
-<p>
-Well, I love to do many things most of them not related to coding and all(surprisingly!!!😅) but planning to do coding as well. Apart from coding the things I do is streaming games on youtube and doing music production work. Well, now you might be thinking why i am talking about these things here? But in my perspective, this is damn important. 
-	<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-<br>
-	- 10th Passout from DAV PUBLIC SCHOOL, CDA <br>
-	- 12th Passout from Ravenshaw Junior College <br>
-	- Currently studying in 4th year B.Tech at NIT Rourkela
-<br>
-<h2>Things I have to learn :- </h2>
-	✔ 3D design using blender<br>
-	✔ Game design in unity<br>
-	✔ HTML since not completed it<br>
-	✔ CSS<br>
-	✔ JavaScript<br>
-	✔ C++<br>
-	✔ C#<br>
-<h2>Things I want to do :- </h2>
-Well I am not sure about what I want to pursue but mostly web dev and app dev because it has been fascinating since I was a kid !!!<br>
-So it's obvious :- <br>
-	✔ Web dev <br>
-	✔ App dev <br>
-	✔ Music Production <br>
-	✔ Some work on youtube as a part time job <br>
-</p>
-<p align="center">
-	<a href="https://github.com/AmreetKumarkhuntia"><img alt="github" width="10%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/amreet-khuntia-15193220b/"><img alt="linkedin" width="10%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a> 
-	<a href="https://www.facebook.com/amreetkumar.khuntis.1/"><img alt="facebook" width="10%" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/akmaniac123/"><img alt="instagram" width="10%" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>	
+- 📫 How to reach me **amreetleo123@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/thndrklr_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thndrklr_2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amreet-khuntia-15193220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amreet-khuntia-15193220b" height="30" width="40" /></a>
+<a href="https://medium.com/@amreetleo123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amreetleo123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amreetleo123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amreetleo123" height="30" width="40" /></a>
 </p>
 
-<h2 align="center"> Well thank you for being patient and reading this !!! <br> <img alt="bow" src="https://monophy.com/media/iDdroSqfT7QKQ/monophy.gif" width="300" style="paddinf:5px" align="center"></h2>
-<!---
-AmreetKumarkhuntia/AmreetKumarkhuntia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amreetkumarkhuntia&show_icons=true&locale=en&layout=compact" alt="amreetkumarkhuntia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amreetkumarkhuntia&show_icons=true&locale=en" alt="amreetkumarkhuntia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amreetkumarkhuntia&" alt="amreetkumarkhuntia" /></p>
